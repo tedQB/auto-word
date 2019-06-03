@@ -34,8 +34,10 @@ vbs
 ```
 
 ## ПоДїЅШНј
-<img src="" width=400 />
-
+<img src="https://github.com/tedQB/auto-word/blob/master/img/1.png?raw=true" />
+<img src="https://github.com/tedQB/auto-word/blob/master/img/1.jpg?raw=true" />
+<img src="https://github.com/tedQB/auto-word/blob/master/img/2.jpg?raw=true" />
+<img src="https://github.com/tedQB/auto-word/blob/master/img/3.jpg?raw=true" />
 
 
 
